@@ -1,4 +1,4 @@
-# RKO11-Forest-Ecology
+# RKO11 - Forest Ecology
 RKO11 - Forest Ecology
 
 
